@@ -26,7 +26,7 @@ npm install react --save
 npm install immutable --save
 ```
 
-## Command
+## Finally, React Advanced Form
 
 In the end, install React Advanced Form itself by running the following command:
 
@@ -34,3 +34,8 @@ In the end, install React Advanced Form itself by running the following command:
 npm install react-advanced-form --save
 ```
 
+Note: you can also install above mentioned npm packages with [yarn](https://yarnpkg.com/) by hitting `yarn add <package name>` command.
+Example:
+```bash
+yarn add react-advanced-form
+```
